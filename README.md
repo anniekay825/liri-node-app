@@ -17,3 +17,6 @@ Ask Liri "node liri.js do-what-it-says and wait for what she wants to tell you. 
 
 ##Screencastify Preview of LIRI
 
+<a href="https://youtu.be/eAl0maVeGNE
+" target="_blank"><img src="liri.demo.jpg" 
+alt="liridemo" width="240" height="180" border="10" /></a>
