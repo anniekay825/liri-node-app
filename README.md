@@ -5,6 +5,8 @@ This language interpretation and recognition interface (LIRI) was built to answe
 #### :musical_note: Concert-This:
 Ask Liri "node liri.js concert-this "YOUR CHOSEN BAND" and it will tell you when/where your favorite bands are playing.  Might even help you figure out where to vacation next - even if it's a virtual vacation (#wanderlust).
 
+
+
 #### :musical_score: Spotify-this-song:
 Ask Liri "node liri.js spotify-this-song "SONG NAME" and you should get a quick snippet of the song in your browser, and the album you can find the song.  Have fun with it - there are loads of songs out there.
 
@@ -14,6 +16,4 @@ Ask Liri "node liri.js movie-this "A GOOD MOVIE" and find out key facts about a 
 #### :crystal_ball: Do-what-it-says
 Ask Liri "node liri.js do-what-it-says and wait for what she wants to tell you. :grin:
 
-
-##Screencastify Preview of LIRI
 
