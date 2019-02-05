@@ -1,3 +1,6 @@
+Inline-style: 
+!(https://github.com/anniekay825/liri-node-app/LIRI.png)
+
 # liri-node-app
 
 This language interpretation and recognition interface (LIRI) was built to answer four different prompts:
@@ -17,6 +20,6 @@ Ask Liri "node liri.js do-what-it-says and wait for what she wants to tell you. 
 
 ##Screencastify Preview of LIRI
 
-<a href="https://youtu.be/eAl0maVeGNE
-" target="_blank"><img src="liri.demo.jpg" 
+<a href="https://youtu.be/eAl0maVeGNE" 
+target="_blank"><img src="https://youtu.be/eAl0maVeGNE" 
 alt="liridemo" width="240" height="180" border="10" /></a>
