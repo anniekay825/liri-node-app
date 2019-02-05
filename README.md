@@ -1,6 +1,3 @@
-Inline-style: 
-!(https://github.com/anniekay825/liri-node-app/LIRI.png)
-
 # liri-node-app
 
 This language interpretation and recognition interface (LIRI) was built to answer four different prompts:
