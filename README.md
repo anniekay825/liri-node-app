@@ -20,6 +20,9 @@ Ask Liri "node liri.js movie-this "A GOOD MOVIE" and find out key facts about a 
 ### :crystal_ball: Do-what-it-says
 Ask Liri "node liri.js do-what-it-says and wait for what she wants to tell you. :grin:
 
+
+[Screencastify video if you want to watch me type](https://drive.google.com/file/d/1XxK_aPAAVp7KnUgI9jzoiz8kasuB7RGx/view)
+
 ---
 ## **What I used to build the app**
 
